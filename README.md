@@ -1,2 +1,2 @@
 # Recipe
-Made my first React project of recipe
+Built Indian Recipe List Web App using Reactjs.
